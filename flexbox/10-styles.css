@@ -369,6 +369,10 @@
     background-color: #010101;
     
   }
+
+  .section-hero .section-body {
+    padding: 10rem 4rem;
+  }  
   
   .section-hero .section-title {
     margin-bottom: 5rem;
