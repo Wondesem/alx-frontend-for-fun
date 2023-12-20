@@ -357,6 +357,10 @@
     margin-top: -8.5rem;    
   }
 
+  .section-hero .section-body {
+    padding: 10rem 4rem;
+  }  
+  
   .section-hero .section-category {
     color: var(--color-white);
     text-transform: uppercase;   
@@ -369,16 +373,12 @@
     background-color: #010101;
     
   }
-
-  .section-hero .section-body {
-    padding: 10rem 4rem;
-  }  
-  
   .section-hero .section-title {
     margin-bottom: 5rem;
   }
   
-  .section-hero .section-inner {
+  .sect
+  ion-hero .section-inner {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
