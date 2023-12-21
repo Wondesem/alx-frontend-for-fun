@@ -723,6 +723,10 @@ html {
   .post {
     display: flex;
   }
+  .post img{
+    width: 100%;
+    height: auto;
+  }
   
   .post-content {
     width: 100%;
