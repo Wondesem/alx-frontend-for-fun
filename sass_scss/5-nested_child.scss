@@ -1,0 +1,9 @@
+/*styling nested child */
+$text: #3D3D3D;
+$text1: #FF0000;
+body {
+  color: #3D3D3D;
+
+  > .red {
+    color: #FF0000; }
+    }
