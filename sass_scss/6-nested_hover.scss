@@ -1,6 +1,8 @@
 /* styling nested hovering */
+$text: #FF0000;
+$text1: #00FF00;
 button {
-  color: #FF0000;
+  color: $text;
   :hover {
-    color: #00FF00; }
+    color: $text1; }
     }
