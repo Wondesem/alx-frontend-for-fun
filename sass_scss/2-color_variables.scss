@@ -1,0 +1,12 @@
+/* It asigns HTML body and p text to #3D3D3D and body and h2 background #6D6D6D*/
+$text: #3D3D3D;
+$backGnd: #6D6D6D;
+body {
+  color: $text;
+  background-color: $backGnd; }
+
+p {
+  color: $text; }
+
+h2 {
+  background-color: $backGnd; }
