@@ -1,0 +1,8 @@
+/* assigning colors with variables*/
+$bdTextColor: #3D3D3D;
+$textColor: #FF0000;
+body {
+    color: $bdTextColor; 
+    .red {
+      color: $textColor; }
+    }
