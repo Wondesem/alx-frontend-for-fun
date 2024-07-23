@@ -1,0 +1,9 @@
+/*child nesting sass*/
+$textColor: #3D3D3D;
+$otherColor: #FF0000;
+
+body {
+    color: $textColor; 
+    > .red {
+      color: $otherColor; }
+    }
