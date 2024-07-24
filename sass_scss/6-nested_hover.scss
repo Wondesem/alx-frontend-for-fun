@@ -3,6 +3,7 @@ $btColor: #FF0000;
 $btHoverColor: #00FF00;
 button {
     color: $btColor; 
+    
     &:hover {
       color: $btHoverColor; }
     }
